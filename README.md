@@ -1,1 +1,1 @@
-# JavascriptExercises
+# JavascriptExercises - Repeating structures
